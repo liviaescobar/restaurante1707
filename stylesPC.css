@@ -1,0 +1,35 @@
+/* -----------Mobile Computador----------- */
+
+@media screen and (max-width: 1200px){
+    header{
+        height: 40vh;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+
+    .primeiro__nav_cabecalho{
+        width: 45vw;
+        font-size: 23px;
+    }
+
+    h3{
+        margin-top: 15px;
+        font-size: 35px;
+        width: 35vw;
+    }
+
+    .primeira-sessao__paragrafo{
+        font-size: 20px;
+        font-weight: 400;
+        width: 70vw;
+        margin-top: 10px;
+    }
+
+    #primeira-sessao__botao{
+        height: 5vh;
+        font-size: 19px;
+        margin-top: 10px;
+    }
+}
